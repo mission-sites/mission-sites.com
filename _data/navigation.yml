@@ -1,12 +1,5 @@
 # Navigation Bar (add, edit, or remove links)
 main:
-  - title: "Announcements"
-    url: /announcements/
-  - title: "Calendar"
-    url: /calendar/
-  - title: "Outreach"
-    url: /outreach/
-  - title: "Youth"
-    url: /youth/
-  - title: "Our Leaders"
-    url: /ourleaders/
+  - title: "GitHub"
+    url: https://github.com/mission-sites
+
